@@ -1,2 +1,3 @@
-# Lista8Atividade5
-Lista8Atividade5
+Lista de Atividades: https://wiki.python.org.br/ExerciciosClasses
+
+Atividadde 5
